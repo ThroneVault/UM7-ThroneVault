@@ -437,6 +437,3 @@ class UM7RegInfo(object):
             return UM7RegInfo._regdata[regno-UM7RegInfo._regdatastart]
         else:
             return None
-
-
-
